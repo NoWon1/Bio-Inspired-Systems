@@ -1,3 +1,10 @@
+"""
+Genetic Algorithms (GA) are inspired by the process of natural selection and genetics, where the 
+fittest individuals are selected for reproduction to produce the next generation. GAs are widely used 
+for solving optimization and search problems. Implement a Genetic Algorithm using Python to solve 
+a basic optimization problem, such as finding the maximum value of a mathematical function.
+"""
+
 import random
 
 def fitness_function(x):
